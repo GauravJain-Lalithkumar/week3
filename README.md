@@ -1,0 +1,2 @@
+# week3
+My_very_first_repo_i_am_so_happy_to_be_learning_code.
